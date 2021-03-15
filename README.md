@@ -20,6 +20,8 @@ discord.js
 ```
 node main_1.js
 ```
+**Note**: Only 4 pairs on 1 bot
+
 Feel free to add issues or better yet, do pull requests!
 
 The bot is developed and tested on `Node.js v12.12.0`. 
