@@ -17,8 +17,9 @@ discord.js
 ```
 
 ### Usage
-The bot automatically updates the topics in the channels set in the config.js
-
+```
+node main_1.js
+```
 Feel free to add issues or better yet, do pull requests!
 
 The bot is developed and tested on `Node.js v12.12.0`. 
