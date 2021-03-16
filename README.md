@@ -1,6 +1,6 @@
-# discord-crypto-prices-topic
+# discord-cryptobot
 
-Display cryptocurrency prices of Crypto Compare on Bot's Name/Activity
+Display cryptocurrency prices (Crypto Compare) on Bot's Name/Activity
 
 ### Quick start
 
